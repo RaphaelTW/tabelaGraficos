@@ -28,7 +28,7 @@ include 'conexao.php'
     <!--[MDB]-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.css" rel="stylesheet"/>
 
-    <!--[Importação google charts]-->
+    <!--[Importação Google charts]-->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <!--[script para o carts]-->
     <script type="text/javascript">
